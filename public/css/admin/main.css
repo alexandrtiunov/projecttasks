@@ -1,0 +1,28 @@
+.info{
+    width: 75%;
+    margin-left: 13%;
+    margin-top: 2%;
+    margin-bottom: -7%;
+}
+
+.alert.alert-info,.alert.alert-success{
+    text-align: center;
+}
+
+.alert.alert-info,.alert.alert-success{
+    display: none;
+}
+
+.row-admin{
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.photo-position {
+    float: left;
+    width: 26%;
+    margin-left: 5%;
+    padding-top: 2%;
+}
